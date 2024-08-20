@@ -138,4 +138,5 @@ Start the development server:
 1. Access the admin panel at:
 
     <http://127.0.0.1:8000/admin/>
+2. <http://localhost:8000/countries/>
     ```
